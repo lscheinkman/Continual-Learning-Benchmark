@@ -2,4 +2,4 @@ torch>=0.4.1
 torchvision>=0.2.1
 argparse
 quadprog
-
+-e git+https://github.com/lscheinkman/nupic.torch.git@master#egg=nupic.torch
